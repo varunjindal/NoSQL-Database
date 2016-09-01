@@ -1,0 +1,44 @@
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\ItemEditor.exe.config
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\ItemEditor.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\ItemEditor.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBElement.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBElementTest.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBEngine.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBEngineTest.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBExtensions.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBFactory.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\Display.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\UtilityExtensions.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBElementTest.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBElement.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBEngineTest.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBEngine.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBExtensions.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\DBFactory.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\Display.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\bin\Debug\UtilityExtensions.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\obj\Debug\ItemEditor.csprojResolveAssemblyReference.cache
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\obj\Debug\ItemEditor.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\ItemEditor\obj\Debug\ItemEditor.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\ItemEditor.exe.config
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\ItemEditor.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\ItemEditor.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBElement.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBElementTest.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBEngine.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBEngineTest.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBExtensions.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBFactory.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\Display.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\UtilityExtensions.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBElementTest.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBElement.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBEngineTest.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBEngine.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBExtensions.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\DBFactory.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\Display.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\bin\Debug\UtilityExtensions.pdb
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\obj\Debug\ItemEditor.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\obj\Debug\ItemEditor.exe
+C:\Users\Varun\Desktop\Varun Jindal\ItemEditor\obj\Debug\ItemEditor.pdb

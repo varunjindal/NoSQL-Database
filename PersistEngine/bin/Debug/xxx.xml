@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<noSqlDb>
+  <keytype>string</keytype>
+  <payloadtype>ListOfStrings</payloadtype>
+  <key>Prohject2</key>
+  <element>
+    <name>Element2</name>
+    <descr>testelement2</descr>
+    <timeStamp>10/8/2015 10:08:55 PM</timeStamp>
+    <children>
+      <key>keySMA1</key>
+      <key>keySyracuse2</key>
+      <key>keyNY3</key>
+    </children>
+    <payload>
+      <item>we</item>
+      <item>rock</item>
+      <item>the </item>
+      <item>world</item>
+    </payload>
+  </element>
+  <key>Thug3</key>
+  <element>
+    <name>Element3</name>
+    <descr>test element3</descr>
+    <timeStamp>10/8/2015 10:08:55 PM</timeStamp>
+    <children>
+      <key>keySMA2</key>
+      <key>keySyracuse22</key>
+      <key>keyNY33</key>
+    </children>
+    <payload>
+      <item>Thug</item>
+      <item>Life</item>
+    </payload>
+  </element>
+</noSqlDb>

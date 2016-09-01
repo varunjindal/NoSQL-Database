@@ -1,0 +1,56 @@
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\QueryEngine.exe.config
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\QueryEngine.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\QueryEngine.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBElement.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBElementTest.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBEngine.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBEngineTest.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBExtensions.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\Display.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\ItemEditor.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\PersistEngine.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\ReadXML.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\UtilityExtensions.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBFactory.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBElementTest.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBElement.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBEngineTest.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBEngine.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBExtensions.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\Display.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\ItemEditor.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\PersistEngine.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\ReadXML.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\UtilityExtensions.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\bin\Debug\DBFactory.pdb
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\obj\Debug\QueryEngine.exe
+C:\Users\varunJ\Desktop\SMA\Project2Starter\QueryEngine\obj\Debug\QueryEngine.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\QueryEngine.exe.config
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\QueryEngine.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\QueryEngine.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBElement.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBElementTest.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBEngine.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBEngineTest.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBExtensions.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\Display.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\ItemEditor.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\PersistEngine.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\ReadXML.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\UtilityExtensions.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBFactory.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBElementTest.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBElement.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBEngineTest.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBEngine.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBExtensions.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\Display.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\ItemEditor.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\PersistEngine.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\ReadXML.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\UtilityExtensions.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\bin\Debug\DBFactory.pdb
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\obj\Debug\QueryEngine.exe
+C:\Users\Varun\Desktop\Varun Jindal\QueryEngine\obj\Debug\QueryEngine.pdb

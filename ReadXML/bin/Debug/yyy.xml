@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<noSqlDb>
+  <keytype>string</keytype>
+  <payloadtype>ListOfStrings</payloadtype>
+  <key>4</key>
+  <element>
+    <name>Element4</name>
+    <descr>test element4</descr>
+    <timeStamp>10/6/2015 9:04:17 PM</timeStamp>
+    <children>
+      <key>1</key>
+      <key>2</key>
+      <key>3</key>
+    </children>
+    <payload>
+      <item>What</item>
+      <item> </item>
+      <item>the</item>
+      <item> </item>
+      <item>fuck</item>
+    </payload>
+  </element>
+  <key>5</key>
+  <element>
+    <name>Element5</name>
+    <descr>test element5</descr>
+    <timeStamp>10/6/2015 9:04:17 PM</timeStamp>
+    <children>
+      <key>5</key>
+      <key>6</key>
+      <key>7</key>
+    </children>
+    <payload>
+      <item>we</item>
+      <item>rock</item>
+      <item>the</item>
+      <item>world</item>
+    </payload>
+  </element>
+</noSqlDb>

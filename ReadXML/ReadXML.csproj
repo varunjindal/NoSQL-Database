@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3ECECC38-AB18-460A-A012-893C575CEA34}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ReadXML</RootNamespace>
+    <AssemblyName>ReadXML</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;TEST_READ_XML</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ReadXml.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBElementTest\DBElementTest.csproj">
+      <Project>{366a04ba-32c8-4bd0-a69a-643fb005164e}</Project>
+      <Name>DBElementTest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBElement\DBElement.csproj">
+      <Project>{1d9fdb3e-8c03-493f-8d76-0443b298e854}</Project>
+      <Name>DBElement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBEngineTest\DBEngineTest.csproj">
+      <Project>{b7c08b4f-0fe5-438a-8d5d-e68a8ccabfff}</Project>
+      <Name>DBEngineTest</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBEngine\DBEngine.csproj">
+      <Project>{9f039b4c-22c7-488b-9e2f-b7224cc46a2d}</Project>
+      <Name>DBEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBExtensions\DBExtensions.csproj">
+      <Project>{a6ecc225-6634-474e-97f6-54fb2f758c99}</Project>
+      <Name>DBExtensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBFactory\DBFactory.csproj">
+      <Project>{e72755e1-ecb2-41ca-b5e2-4feb0dc76db8}</Project>
+      <Name>DBFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Display\Display.csproj">
+      <Project>{84fec583-d643-4465-ada0-c34c9bf8c624}</Project>
+      <Name>Display</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ItemEditor\ItemEditor.csproj">
+      <Project>{900e0510-93e1-4bc2-b54b-14f04ce74050}</Project>
+      <Name>ItemEditor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PersistEngine\PersistEngine.csproj">
+      <Project>{63efec3a-404a-48ff-bc9a-d21bf719cb37}</Project>
+      <Name>PersistEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UtilityExtensions\UtilityExtensions.csproj">
+      <Project>{7092ac78-846b-424b-9cc3-94e2cb2d3c25}</Project>
+      <Name>UtilityExtensions</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
